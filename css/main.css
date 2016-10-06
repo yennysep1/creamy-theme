@@ -1,0 +1,110 @@
+* {
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+/* ACÁ DETALLE ESTILOS DE TEXTOS */
+
+h3, h4{
+	font-family: 'Merriweather', serif;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+}
+
+/* ACÁ DETALLE ESTILOS DE MENU */
+
+.navbar{
+	background-color: #FC2727;
+	margin-bottom: -1px;
+	border: none;
+	border-radius: 0px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #DAFA04;
+}
+
+ .navbar-default .navbar-brand {
+    color: #fff;
+} 
+
+ .navbar-default .navbar-brand:hover {
+    color: #DAFA04;
+} 
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #DAFA04;
+}
+
+/* ACÁ DETALLE ESTILOS DE TEXLA SECCION BANNER PRINCIPAL */
+
+.banner {
+	background-image: url(../img/creamy.jpg);
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+}
+
+.banner h1 {
+	font-family: 'Lobster', cursive;
+}
+
+.dark{
+	background-color: rgba(51,51,51,0.8);
+	padding: 150px 0;
+}
+
+/* ACÁ DETALLE ESTILOS DE SECCION SO-CREAMY */
+
+.so-creamy {
+	background-color: #FFE6E6;
+	padding: 30px 0;
+	color: #D54646;
+}
+
+/* ACÁ DETALLE ESTILOS DE SECCION ABOUT */
+
+.about{
+	background-color: #D54646;
+	padding: 50px 0;
+	color: #fff;
+}
+
+/* ACÁ DETALLE ESTILOS DE SECCION SERVICES */
+
+.services {
+	padding: 80px 0;
+	color: #D54646 ;
+}
+
+.services p i {
+	font-size: 70px;
+}
+
+.services p i:hover {
+	color: #DAFA04;
+}
+
+/* ACÁ DETALLE ESTILOS DEL FOOTER */
+
+footer{
+	background-color: #D54646;
+	padding: 30px 0;
+	color: #fff;
+}
+
+footer a {
+	color: #DAFA04;
+}
+
+
